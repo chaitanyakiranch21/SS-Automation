@@ -27,7 +27,7 @@
 # When I add "Retirement Plan Types" successfully
 # Then I should see snackbar message
 
-
+--back to portal
 Feature: Back to portal
 @backtoportal
 Scenario: Back to portal link
